@@ -25,17 +25,17 @@ These commands above is run in the Microsoft Windows command prompt windows(cmd.
 ### Python requirements
 
 ```
-(venv) $ pip install flask pyinstaller
+(venv) D:\pdfviewer> pip install flask pyinstaller
 ```
 
 If you have a terrible download speed, you can use the option `-i <mirror for pip>`, For instance, in China:
 
 ```
-(venv) $ pip install flask pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
+(venv) D:\pdfviewer> pip install flask pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 ### Build
 
 ```
-(venv) $ pyinstaller pdfviewer.spec
+(venv) D:\pdfviewer> pyinstaller pdfviewer.spec
 ```
