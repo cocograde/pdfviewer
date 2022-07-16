@@ -36,6 +36,14 @@ If you have a terrible download speed, you can use the option `-i <mirror for pi
 
 ### Build
 
+Onefile version:
+
 ```
-(venv) D:\pdfviewer> pyinstaller pdfviewer.spec
+(venv) D:\pdfviewer> pyinstaller pdfviewer_onefile.spec
+```
+
+Onedir version:
+
+```
+(venv) D:\pdfviewer> pyinstaller pdfviewer_onedir.spec
 ```
