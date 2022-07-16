@@ -11,7 +11,7 @@ The pdfviewer is in order to work with the [talentranslate](https://microsoftedg
 I recommend that you create a virtual environments:
 
 ```
-D:\pdfviewer> python3 -m venv venv
+D:\pdfviewer> python -m venv venv
 ```
 
 Enter the virtual environments:
