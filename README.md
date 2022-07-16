@@ -36,7 +36,7 @@ If you have a terrible download speed, you can use the option `-i <mirror for pi
 
 ### Build
 
-You have two choice, one is onefile version and one is onedir version.
+You have two choices, one is onefile version and one is onedir version.
 
 Onefile version:
 
