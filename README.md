@@ -28,7 +28,7 @@ These commands above is run in the Microsoft Windows command prompt windows(cmd.
 (venv) D:\pdfviewer> pip install flask pyinstaller
 ```
 
-If you have a terrible download speed, you can use the option `-i <mirror for pip>`, For instance, in China:
+If you have a terrible download speed, you can use the option `-i <mirror for pip>`, for instance, in China:
 
 ```
 (venv) D:\pdfviewer> pip install flask pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
